@@ -28,6 +28,8 @@
 *  springboot 2.2.5
 
 **博客展示界面**
+![image](https://github.com/carinarer/blog/assets/27613000/3d36d158-efd0-4f7b-9faa-3ff828a2fdf5)
+
 
 ![](https://github.com/Mitsuha666/blog-pictures/blob/master/index.png?raw=true)
 
